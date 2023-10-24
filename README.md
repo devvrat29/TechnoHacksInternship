@@ -1,7 +1,6 @@
 # Data Analyst Internship at TechnoHacks
 
-![Uploading logo-final-transperrant-black-theme-3-1.png…]()
-
+![1665640493473](https://github.com/devvrat29/TechnoHacksInternship/assets/146213827/b8d02d83-3204-4908-b961-237bb8bcdffc)
 
 Welcome to the README file for my one-month internship as a Data Analyst at TechnoHacks! In this document, I will provide an overview of the work I performed during my internship, the projects I worked on, and the skills I acquired.
 
