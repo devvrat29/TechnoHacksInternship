@@ -68,4 +68,4 @@ If you have any questions or would like to get in touch, you can reach me via:
 
 Thank you for taking the time to explore my internship experience at TechnoHacks. I look forward to sharing more about my journey in the field of data analysis and contributing to the data analytics community.
 
-![TechnoHacks Office](technohacks_office.jpg)
+![img_14](https://github.com/devvrat29/TechnoHacksInternship/assets/146213827/f77522ac-5d1a-4801-94ca-4c04947fcd55)
